@@ -1,3 +1,5 @@
+#My Git module
+
 # re-simple-python-project
 
 This simple project structure template repository is adapted from the [Good Enough Project](https://github.com/bvreede/good-enough-project) Cookiecutter template by Barbara Vreede (2019).
